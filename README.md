@@ -1,2 +1,2 @@
 # Conway
-Modified game of life
+Modified Game of Life
